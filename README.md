@@ -11,10 +11,10 @@ Spotify Tracks Dataset — Kaggle
 
 
 **Full Report (PDF):**  
-[View Presentation](What%20Makes%20a%20Song%20Popular_1128.pdf)
+[View Presentation](https://github.com/Timothy0324/Spotify-Song-Popularity-Analysis/blob/main/What%20Makes%20a%20Song%20Popular_1128.pdf)
 
 **Jupyter Notebook:**  
-[Open Notebook](What%20makes%20a%20song%20popular%20(Spotify)%20-%20Timothy%20Liu.ipynb)
+[Open Notebook](https://github.com/Timothy0324/Spotify-Song-Popularity-Analysis/blob/main/What%20makes%20a%20song%20popular%20(Spotify)%20-%20Timothy%20Liu.ipynb)
 
 ---
 
