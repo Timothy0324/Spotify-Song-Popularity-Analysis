@@ -7,7 +7,7 @@
 
 Spotify Tracks Dataset — Kaggle
 
-🔗 [https://archive.ics.uci.edu/ml/datasets/Chronic_Kidney_Disease](https://www.kaggle.com/datasets/maharshipandya/-spotify-tracks-dataset)
+🔗 [Spotify Tracks Dataset](https://www.kaggle.com/datasets/maharshipandya/-spotify-tracks-dataset)
 
 
 **Full Report (PDF):**  
