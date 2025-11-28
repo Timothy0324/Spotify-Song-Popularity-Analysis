@@ -1,4 +1,4 @@
-# Spotify-Song-Popularity-Analysis
+# 🎵Spotify-Song-Popularity-Analysis
 **Author:** Timothy Liu  
 
 ---
@@ -108,7 +108,7 @@ Future research should integrate **external features** like TikTok trends, follo
 
 ---
 
-## Tools Used
+## 🛠️ Tools Used
 - Python (pandas, numpy, seaborn, matplotlib, sklearn)  
 - Random Forest Regression  
 - Data cleaning & wrangling  
